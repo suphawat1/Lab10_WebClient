@@ -1,5 +1,7 @@
+/**
+นายศุภวัทน์ แสนเรียน รหัสนักศึกษา 673380604-2 Section3
+ */
 package com.example.lab10.controller;
-
 import com.example.lab10.model.Product;
 import com.example.lab10.service.ProductService;
 import org.springframework.web.bind.annotation.*;

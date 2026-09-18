@@ -1,5 +1,7 @@
+/**
+นายศุภวัทน์ แสนเรียน รหัสนักศึกษา 673380604-2 Section3
+ */
 package com.example.lab10.client;
-
 import com.example.lab10.model.Product;
 import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.client.WebClient;
